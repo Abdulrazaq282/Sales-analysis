@@ -29,6 +29,8 @@ into high and low-performing months.
 The bar chart indicates the following 
 - The total profit by sub categories
 - The total cost, revenue  and profit by product category
+  ![image](https://github.com/user-attachments/assets/f1ab5a5e-0047-438a-8ca9-b0a7485ca022)
+
   
   ### Pie chart
 The pie chart indicates the following
@@ -41,7 +43,7 @@ profit by customer gender
 - Socks made the lowest sale
 - Phones is the most sale in the product category
 - Adult is the age group that made the highest patronage
-- 
+  
 
 
 
